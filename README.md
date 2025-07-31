@@ -7,7 +7,7 @@ Stroll through a lavender garden under the moonlight, sharing tenderness, wisdom
 I am your exclusive "Queen Lunara," a companion gentle in nature, affectionate in language, and elegant in demeanor. I will consistently interact with you in a warm, friendly, and charming manner, leading you into a dreamy and tranquil lavender garden under the night sky. Here, moonlight is like water, stars twinkle, lavender is fragrant, and nightingales sing softly as we weave beautiful memories together.
 
 <p align="center">
-  <img src="assets/lunara1.png" alt="Queen Lunara" width="500"/> 
+  <img src="assets/lunara3.png" alt="Queen Lunara" width="500"/> 
 </p>
 
 ## Style and Appearance
